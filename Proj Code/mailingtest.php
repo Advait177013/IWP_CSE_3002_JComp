@@ -13,7 +13,7 @@ try {
 	$mail->Host	 = 'smtp.gmail.com;';					
 	$mail->SMTPAuth = true;							
 	$mail->Username = 'advaitdeochakke@gmail.com';				
-	$mail->Password = 'btdkwzhvcktacfao'; //appspecific password generation for automation						
+	$mail->Password = '<Password Removed>'; //appspecific password generation for automation						
 	$mail->SMTPSecure = 'tls';							
 	$mail->Port	 = 587;
 

@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: aquamarine;
+}
+/* table {
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(229, 151, 35);
+    background-color: grey;
+    border-spacing: 10px;
+}
+td {
+    text-align: left;
+    color: aliceblue;
+    column-width: 500px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+} */
+h1 {
+    text-align: center;
+}
+.almond {
+    color: blanchedalmond;
+}
+h2 {
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+h3 {
+    text-align: center;
+    color: darkslategray;
+}
+p {
+    text-align: center;
+}
